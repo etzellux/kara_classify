@@ -3,3 +3,7 @@
 # stem sentences
 
 # save stemmed sentences to excel
+
+# map stems to coordinates
+
+# normalize coordinates
